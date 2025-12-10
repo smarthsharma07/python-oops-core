@@ -1,4 +1,3 @@
-# python-oops-core
 # Python OOP Core Projects 🚀
 
 This repository is a **core Object-Oriented Programming (OOP) playground in Python**, built to deeply understand and apply **real OOP principles** rather than just theory.
